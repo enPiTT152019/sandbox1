@@ -1,5 +1,6 @@
 dog
 dog cat
-cat mouse
+mouse
+snake
 hamster
 rat
