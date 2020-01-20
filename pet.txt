@@ -1,4 +1,5 @@
 dog
+dog
 cat
 hamster
 rat
